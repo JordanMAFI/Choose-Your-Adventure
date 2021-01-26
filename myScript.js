@@ -47,4 +47,4 @@ app.get('/suicide', function(request, response){
 	 response.sendFile(path.join(__dirname, 'contact.html'))
  })
 app.listen(2000)
-console.log("The port is listening at 2000")
+console.log("The port is listening at 2000/home")
